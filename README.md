@@ -11,10 +11,13 @@ However, in 2018, please see the second picture, All Stocks (2018), the summary 
 ## Execution time between original and refactored script
 It spent 0.078125 seconds to get analysis done in refactored script as you can see in the first and second picture. However, it spent 0.46875 seconds, which is six times more than refactored script, to get analysis done in original script. Please see the third picture, All Stocks (2018) in original script. 
 
-### Picture 1 : All Stocks (2017)
+#### Picture 1 : All Stocks (2017)
 ![VBA_Challenge_2017](./Resources/VBA_Challenge_2017.png)
 
-### Picture 2 : All Stocks (2018)
+#### Picture 2 : All Stocks (2018)
 ![VBA_Challenge_2018](./Resources/VBA_Challenge_2018.png)
 
-### Picture 3 : All Stocks (2018) in original script
+#### Picture 3 : All Stocks (2018) in original script
+![green_stocks_2018](./Resources/green_stocks_2018.png)
+
+# Summary

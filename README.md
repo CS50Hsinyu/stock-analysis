@@ -18,6 +18,6 @@ It spent 0.078125 seconds to get analysis done in refactored script as you can s
 ![VBA_Challenge_2018](./Resources/VBA_Challenge_2018.png)
 
 #### Picture 3 : All Stocks (2018) in original script
-![green_stocks_2018](./Resources/green_stocks_2018.png)
+![green_stocks_2018_original](./Resources/green_stocks_2018 original.png)
 
 # Summary

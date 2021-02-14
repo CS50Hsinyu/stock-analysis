@@ -28,4 +28,8 @@ In general, the most advantage of refactoring code is timesaving. Since these co
 The refactored VBA script runs faster than original one. This is because the original script has built a nested loop from line 48 to 86, please see the fourth picture below. Since the outer loop request to repeat 12 times, the inner loop executes from row 2 to the end row twelve times makes longer run time. On the other hand, the refactored script approaches data by looping all the rows one times, sets arrays to collect information for ending, starting and volume result and use tickerIndex to manually increase index in the array to replace nested loops, please see the fifth picture below. 
 The disadvantage of refactor VBA script is that if the data is not in order, the original script can still get correct volume and the refactor script will not be able to run and provide any result at all. 
 
-#### Picture 4 : All Stocks (2018) in original script
+#### Picture 4 : Partial code in original script
+![Original_script_nested_loop](./Resources/Original_script_nested_loop.PNG)
+
+#### Picture 5 : Partial code in refactor script
+![Refactored_script](./Resources/Refactored_script.PNG)
